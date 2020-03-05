@@ -1,0 +1,13 @@
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\bin\Debug\dbconnection.exe.config
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\bin\Debug\dbconnection.exe
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\bin\Debug\dbconnection.pdb
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\obj\Debug\dbconnection.csprojAssemblyReference.cache
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\obj\Debug\dbconnection.csproj.CoreCompileInputs.cache
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\obj\Debug\dbconnection.exe
+C:\Users\dheeraj\source\repos\dbconnection\dbconnection\obj\Debug\dbconnection.pdb
+\\192.168.0.2\Shared\MS-SDirect\Dheeraj Singh\Dheeraj_d\dbconnection\dbconnection\bin\Debug\dbconnection.exe.config
+\\192.168.0.2\Shared\MS-SDirect\Dheeraj Singh\Dheeraj_d\dbconnection\dbconnection\bin\Debug\dbconnection.exe
+\\192.168.0.2\Shared\MS-SDirect\Dheeraj Singh\Dheeraj_d\dbconnection\dbconnection\bin\Debug\dbconnection.pdb
+\\192.168.0.2\Shared\MS-SDirect\Dheeraj Singh\Dheeraj_d\dbconnection\dbconnection\obj\Debug\dbconnection.csprojResolveAssemblyReference.cache
+\\192.168.0.2\Shared\MS-SDirect\Dheeraj Singh\Dheeraj_d\dbconnection\dbconnection\obj\Debug\dbconnection.exe
+\\192.168.0.2\Shared\MS-SDirect\Dheeraj Singh\Dheeraj_d\dbconnection\dbconnection\obj\Debug\dbconnection.pdb
